@@ -8,7 +8,7 @@
     width: 50px;
     border-radius: 50%;           /* Bikin lingkaran */
     object-fit: cover;            /* Biar gambar tetap proporsional */
-    margin-right: 40px;           /* Jarak ke menu */
+    margin-right: 400px;           /* Jarak ke menu */
     border: 2px solid #f4cce2;    /* Frame lingkaran warna soft pink */
     box-shadow: 0 0 5px rgba(0, 0, 0, 0.1); /* Opsional: efek bayangan lembut */
 }
