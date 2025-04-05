@@ -23,7 +23,7 @@ body {
     flex-direction: column;
     align-items: center;
     min-height: 100vh;
-    background-image: url('wall.png');
+    background-image: url('Wall.png');
  /* Ganti dengan gambar wall */
     background-size: cover;
     background-position: center;
